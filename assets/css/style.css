@@ -331,6 +331,11 @@ header .header-container .wa-btn {
     top: -20%;
   }
 }
+@media screen and (max-width: 525px) {
+  .banner .container .content-wrapper .title h2 {
+    font-size: 35px;
+  }
+}
 
 /* Banner End */
 /* Marquee Start */
